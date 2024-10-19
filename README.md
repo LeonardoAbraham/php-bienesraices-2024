@@ -1,7 +1,3 @@
-# BienesRaices
-
-Correr el comando #npm run dev 
-
 # Proyecto - Bienes Raices 2024 php
 Realizado por: Leonardo Abraham Alonzo Martinez
 
